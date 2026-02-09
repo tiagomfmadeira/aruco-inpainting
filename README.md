@@ -1,4 +1,4 @@
-# ArUcoInpaintingTool
+# ArUco Inpainting
 
 Removes visible ArUco markers from RGB images while preserving their geometric role in multi-view 3D reconstruction.
 It detects and projects marker geometry into each camera view to perform accurate inpainting, then reprojects the cleaned imagery onto point clouds to generate marker-free colored reconstructions.
